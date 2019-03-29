@@ -1,0 +1,10 @@
+// 页面样式
+// page-wrap 是整个页面
+.page-wrap {
+  background: #f1f1f1;
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
